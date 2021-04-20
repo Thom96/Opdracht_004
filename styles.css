@@ -1,0 +1,34 @@
+body {
+    color: grey;
+    font-family: 'Montserrat', sans-serif;
+    border: 3px solid black;
+    
+}
+
+.about-me {
+    border: 2px solid black;
+    background-color: burlywood;
+    color: cadetblue;
+    font-weight: 1000;
+}
+
+#green-background {
+    background-color:grey;
+    color:black;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.image {
+    cursor: pointer;
+    border: 1px solid #999;
+    background-color: #fcfcfc;
+    padding: 4px;
+}
+
+.image:hover {
+    background-color: black;
+    transition-delay: 0.1s;
+}
